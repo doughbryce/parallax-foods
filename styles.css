@@ -1,0 +1,52 @@
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+body, html{
+  height: 100%;
+  margin: 0;
+  background-color: #ff7171;
+}
+.section1{
+  background-image: url("images/burger.png");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section2{
+  background-image: url("images/fries.png");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section3{
+  background-image: url("images/shake.png");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2{
+  top: 300px;
+  position: relative;
+  opacity: .7;
+  text-align: center;
+  background-color: white;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+p{
+  padding: 3%;
+  background-color: #ff7171;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.3em;
+}
